@@ -91,10 +91,10 @@
 	"executor"
 	],
 	"minplayers": [
-	3
+	1
 	],
 	"waittime": [
-	120
+	20
 	],
 	"moduleid": [
 	15658486823
