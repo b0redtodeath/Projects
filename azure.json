@@ -90,6 +90,12 @@
 	"shutdown",
 	"executor"
 	],
+	"minplayers": [
+	3
+	],
+	"waittime": [
+	120
+	],
 	"moduleid": [
 	15658486823
 	]
