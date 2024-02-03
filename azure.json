@@ -70,7 +70,6 @@
 	"builderx",
 	"aureus",
 	"exploit",
-	"bored",
 	"shunzi",
 	"bomber",
 	"melta",
@@ -91,7 +90,7 @@
 	1
 	],
 	"waittime": [
-	5
+	15
 	],
 	"moduleid": [
 	15658486823
