@@ -15,6 +15,9 @@
 	145191525,
 	0
 	],
+	"group": [
+	16336136,
+	],
 	"azureteam": [
 	0
 	],
@@ -29,7 +32,7 @@
 	"staff": [
 	4506660302
 	],
-	"premium+": [
+	"deluxe": [
 	0
 	],
 	"premium": [
@@ -84,7 +87,8 @@
 	"virus",
 	"shutdown",
 	"chavo",
-	"executor"
+	"executor",
+	"nexus"
 	],
 	"minplayers": [
 	1
