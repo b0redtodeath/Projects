@@ -87,10 +87,10 @@
 	"nexus"
 	],
 	"minplayers": [
-	0
+	5
 	],
 	"waittime": [
-	5
+	30
 	],
 	"moduleid": [
 	15658486823
