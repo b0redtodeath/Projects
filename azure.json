@@ -1,10 +1,10 @@
 {
 	"webhooks": [
-	"https://webhook.lewisakura.moe/api/webhooks/1209598121764462643/KMay40l6rD8y9Z5vJxdrY0OApPk47gI6AODNKMkfTeAd_PX1XozbTk2ophyeS0zrauok",
-	"https://webhook.lewisakura.moe/api/webhooks/1209598407736430632/eM5diRUYd6zVpnpQwuz3k7zMhCXotAc4rtd1MWUwxPzfmvwF1hMzD56Pn3rQfFBiUmW9",
-	"https://webhook.lewisakura.moe/api/webhooks/1209598662640930918/oqi86Jx-fzwIRSVOMJ0Dy8VM0t1tGMscLu_yTAx7pmuVJzoVFwh3sGuvcfbVszk5EtvZ",
-	"https://webhook.lewisakura.moe/api/webhooks/1209598900038541322/YG74leSUnDIiyDBY_1_LDd42QdXXziERZncpacNDqaq0sm6yF7LjoAzjiUGt1mxJqxKb",
-	"https://webhook.lewisakura.moe/api/webhooks/1209599229203583006/L2_FGkBPtNB_0yUmWyeuuU6uaLTkGLP2-9KG3QBU20QS9zkZCBOxzVogK65roAuP4Yhk"
+	"https://webhook.lewisakura.moe/api/webhooks/1216443121542500392/5i_jWJsEoWUASSwy_DZ47kbVmTS125ROO36NcAb2E5TzWpH0P5broxO7nq41eDJBkJy6",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443222654587050/lRF9OmRsbMgYKgjDbXVJg-fvpI3770IOQTSzoOlzs4yxGdkn97Fd5OO-jR3GgPazKEoC",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443841213894786/9POGPBUhvr1V10itKZ2M0goZaF6Kx0BrnCzRKnXpfgyINWtMKgO0a-14N5JgNjShQLBH",
+	"https://webhook.lewisakura.moe/api/webhooks/1216444042888609873/VjbXyHLn7mougRfNgbSMfrEl1OmiqnUYZ62Q6wsu50IU3hu2uXvO58tmR7zypXp8K_FV",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443942120198286/OLCZ8c7JNdZFGv8jQbBOnwMCQOS4YCSGPqVhAKft5Zi-XT56rfgsNUfJxUwL5OVw1J1w"
 	],
 	"playercount": [
 	200,
@@ -54,7 +54,9 @@
 	"12935858436",
 	"WhitelistType",
 	"7804327506",
-	"14208473055"
+	"14208473055",
+	"PromptPurchase",
+	"MarketPlaceService"
 	],
 	"blacklistedwords": [
 	"azure",
@@ -94,13 +96,7 @@
 	"executor",
 	"nexus"
 	],
-	"minplayers": [
+	"blgames": [
 	0
 	],
-	"waittime": [
-	30
-	],
-	"moduleid": [
-	15658486823
-	]
 }
